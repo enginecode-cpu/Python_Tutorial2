@@ -116,7 +116,7 @@ print()
 
 f_list = ['orange', 'apple', 'mango', 'papaya', 'lemon', 'coconut']
 
-# sorted : 정렬 후 '새로운 객체 반환
+# sorted : 정렬 후 '새로운' 객체 반환
 
 print("Ex7-1 -", sorted(f_list))
 print("Ex7-2 -", sorted(f_list, reverse=True))
